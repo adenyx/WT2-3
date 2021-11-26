@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Data>
+    <student>
+        <ID>0</ID>
+        <name>Sergey</name>
+        <surname>Krasavin</surname>
+        <age>19</age>
+        <studentID>95100333</studentID>
+    </student>
+    <student>
+        <ID>1</ID>
+        <name>Ivan</name>
+        <surname>Pronin</surname>
+        <age>20</age>
+        <studentID>85100373</studentID>
+    </student>
+    <student>
+        <ID>2</ID>
+        <name>Aleksandr</name>
+        <surname>Nevskiy</surname>
+        <age>22</age>
+        <studentID>74800822</studentID>
+    </student>
+    <student>
+        <ID>3</ID>
+        <name>Nikita</name>
+        <surname>Lukar</surname>
+        <age>20</age>
+        <studentID>123654879</studentID>
+    </student>
+    <student>
+        <ID>4</ID>
+        <name>Kirill</name>
+        <surname>Nilov</surname>
+        <age>20</age>
+        <studentID>874159632</studentID>
+    </student>
+</Data>
